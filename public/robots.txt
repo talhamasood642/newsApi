@@ -1,0 +1,11 @@
+<Route path="business" element={<News pageSize= {6} country={"us"}  catogery="buisness"/>}/>
+<Route path="entertainment" element={<News pageSize= {6} country={"us"}  catogery="entertainment"/>}/>
+<Route path="general" element={<News pageSize= {6} country={"us"}  catogery="general"/>}/>
+<Route path="health" element={<News pageSize= {6} country={"us"}  catogery="health"/>}/>
+<Route path="science" element={<News pageSize= {6} country={"us"}  catogery="science"/>}/>
+<Route path="sports" element={<News pageSize= {6} country={"us"}  catogery="sports"/>}/>
+<Route path="technology" element={<News pageSize= {6} country={"us"}  catogery="technology"/>}/>
+
+
+
+        <Route path='/buisness' element={<News pageSize= {6} country={"us"}  catogery="buisness"/>}/>
